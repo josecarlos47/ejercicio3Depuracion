@@ -6,7 +6,7 @@ public class Main {
     
     public static void main(String[] args) {
         
-        int[] my_array = {25, 14, 56, 15, 36, 56, 77, 18, 29, 49};
+        int[] my_array = {25, 14, 56, 15, 36, 56, 77, 18, 29, 49}; 
         
         // Insert an element in 3rd position of the array (index->2, value->5)
         
